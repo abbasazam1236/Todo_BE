@@ -29,3 +29,13 @@ cd backend
 npm install
 # or
 yarn install
+
+# Build the project (compiles TypeScript to JavaScript)
+npm run build
+# or
+yarn build
+
+# Start the production server
+npm run start:prod
+# or
+yarn start:prod
